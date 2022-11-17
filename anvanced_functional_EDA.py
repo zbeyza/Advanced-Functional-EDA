@@ -7,7 +7,7 @@ It aims to be able to process data in a scalable, that is, functional way,
 and to gain insights about the data quickly.
 the process of quickly analyzing data with general functions
 
-1. chech the dataset
+1. check the dataset
     - Getting an outline of the internal and external features of the data set,
      how many observations, how many variables, missing values, etc.
 2. analysis of categorical variables
@@ -76,7 +76,7 @@ df["sex"].nunique()
 
 
 #########
-# type of the variablec and selection
+# type of the variables and selection
 #########
 
 #######
